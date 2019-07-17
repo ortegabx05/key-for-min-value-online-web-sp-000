@@ -13,6 +13,3 @@ def key_for_min_value(name_hash)
       end
       min_key
   end 
-enddef key_for_min_value(name_hash)
-
-end
